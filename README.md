@@ -7,7 +7,7 @@
 
 **npm i -g firebase-tool**
 
-- Create a folder. Inside that, setup this project as a firebase project. Make sure you have already created firebase project in firebase console.
+- Create a project folder. Inside that, setup this project as a firebase project (Make sure you have already created firebase project in firebase console.).
 
 **firebase init**
 
